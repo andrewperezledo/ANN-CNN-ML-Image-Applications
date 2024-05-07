@@ -22,8 +22,6 @@ This project implements neural networks for flower classification and lung segme
 
 ### More Files
 Some more files are also included:
-- The report.docx
 - report.pdf
 - model_cnn.keras
 - model_mlp.keras
-- testing and training PDFs
